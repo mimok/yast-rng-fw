@@ -1,0 +1,6 @@
+SPDX-License-Identifier: BSD-3-Clause
+
+Most of code is licensed under BSD-3 Clause
+Some parts of code are licensed under Apache 2.0
+Some parts of code are licensed under proprietary licenses
+Header of each file specify which license is applicable
